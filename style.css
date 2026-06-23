@@ -5,3 +5,11 @@ body{
         h1{
             color:hotpink
         }
+
+     #curtidas{
+background-color:red;/*cor de fundo*/
+color:brown
+padding:5px 10px 5px 10px
+borde:2px 
+
+    }
