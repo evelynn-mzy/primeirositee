@@ -6,10 +6,9 @@ body{
             color:hotpink
         }
 
-     #curtidas{
-background-color:red;/*cor de fundo*/
-color:brown
-padding:5px 10px 5px 10px
-borde:2px 
-
-    }
+#curtidas{
+    background-color:rgb(224, 124, 203);/*cor de fundo*/
+    color:rgb(197, 110, 110);
+    padding:5px 10px 5px 10px;
+    border:2px solid rgb(48, 139, 155);
+}
