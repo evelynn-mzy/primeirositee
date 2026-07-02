@@ -12,3 +12,8 @@ body{
     padding:5px 10px 5px 10px;
     border:2px solid rgb(48, 139, 155);
 }
+#curtidas{
+    background-color:rgba(34, 1, 1, 0.527);/*cor de fundo*/
+    color:rgba(207, 36, 36, 0.671);
+    padding:5px 10px 5px 10px;
+    border:2px solid rgb(255, 255, 255);
